@@ -7,7 +7,7 @@ O DevLinkks é um agregador de links para usar como cartão de visitas online.
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-ferramentas-usadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -27,7 +27,7 @@ Possui pequenas mudanças em comparação com o projeto base, incluindo:
 - Os links possuem uma explicação sobre o que se referem, possível de ver ao deixar o mouse em cima deles
 - As imagens usada no botão de mudar o tema são diferentes (baixadas a partir do site https://ionic.io/ionicons)
 
-<!--Para acessar esse projeto finalizado, online, clique [aqui](#)-->
+Para acessar esse projeto finalizado e online, clique [aqui](https://mutannejs.github.io/MurilloDevLinks/).
 
 ## 🚀 Tecnologias
 
@@ -36,12 +36,14 @@ Possui pequenas mudanças em comparação com o projeto base, incluindo:
 - Git e GitHub
 - Figma
 
-## :ledger: Ferramentas usadas
+## :ledger: Ferramentas
 
-Durante o desenvolvimento doi utilizado os seguintes editores de texto:
+Durante o desenvolvimento foi utilizado os seguintes editores de texto:
 
 - [Geany](https://www.geany.org/)
 - [Fronteditor](https://github.com/maykbrito/fronteditorv2)
+
+Foi usado também o [Gimp](https://www.gimp.org/) para criar a preview do README.
 
 ## :memo: Licença
 
