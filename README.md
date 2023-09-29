@@ -26,6 +26,7 @@ Possui pequenas mudanças em comparação com o projeto base, incluindo:
 - No lugar de imagens no background foi utilizado um gradiente de cores
 - Os links possuem uma explicação sobre o que se referem, possível de ver ao deixar o mouse em cima deles
 - As imagens usada no botão de mudar o tema são diferentes (baixadas a partir do site https://ionic.io/ionicons)
+- A página possui um favicon
 
 Para acessar esse projeto finalizado e online, clique [aqui](https://mutannejs.github.io/MurilloDevLinks/).
 
